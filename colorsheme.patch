@@ -1,0 +1,15 @@
+diff --git a/vimrc b/vimrc
+index 29fc3ca..af20fa8 100644
+--- a/vimrc
++++ b/vimrc
+@@ -257,8 +257,8 @@ endif
+ 
+ " Colors {{{
+ 
+-" colorscheme gruvbox
+-colorscheme brogrammer
++colorscheme gruvbox
++" colorscheme brogrammer
+ set background=dark
+ " }}}
+ 

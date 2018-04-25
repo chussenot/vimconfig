@@ -257,8 +257,8 @@ endif
 
 " Colors {{{
 
-" colorscheme gruvbox
-colorscheme brogrammer
+colorscheme gruvbox
+" colorscheme brogrammer
 set background=dark
 " }}}
 
