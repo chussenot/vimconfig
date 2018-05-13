@@ -1,5 +1,8 @@
 " vim: set foldmethod=marker :
 
+set hidden
+let g:racer_cmd = "/path/to/racer/bin"
+
 set nocompatible
 filetype off
 

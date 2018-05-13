@@ -2,6 +2,8 @@
 
 call plug#begin()
 
+Plug 'racer-rust/vim-racer'
+
 " {{{ BASICS
 
 " {{{ vim-sensible " sensible set of defaults
